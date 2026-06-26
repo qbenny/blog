@@ -1,5 +1,5 @@
 ---
 layout: home
-title: 我的研究博客
+title: 生活的碎碎念
 ---
-# 欢迎访问我的研究主页
+# Benny's 生活的碎碎念
