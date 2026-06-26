@@ -1,4 +1,8 @@
-# Office官网VLK安装
+---
+layout: post
+title: "Office官网VLK安装"
+date: 2026-06-26
+---
 
 **1.office 软件部署工具：https://www.microsoft.com/en-us/download/details.aspx?id=49117**
 
